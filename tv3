@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="A-TV ABIERTA", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", LAS ESTRELLAS MX
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", NU9VE
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", CANAL 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="B-NOTICIAS", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="B-NOTICIAS", FORO TV
+https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="A-TV ABIERTA", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="B-NOTICIAS", UNIVISION 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVISION
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
