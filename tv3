@@ -20,6 +20,8 @@ https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="B-NOTICIAS", UNIVISION 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVISION
